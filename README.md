@@ -4,14 +4,8 @@
 
 ![npm version](https://img.shields.io/npm/v/react.svg?style=flat)
 [React](https://reactjs.org/)
+![React Logo](/imgs/react-logo.svg 'React Logo')
 
-- npm packages 
-```sh
-   1. express
-   2. mongoose
-   3. cheerio
-   4. axios
-```
 
 ## Overview
 
