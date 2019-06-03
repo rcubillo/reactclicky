@@ -1,10 +1,11 @@
 # Clicky Game React App
 
+![GitHub Logo](/public/assets/images/react-logo.svg)
+
 ### Technologies
 
 ![npm version](https://img.shields.io/npm/v/react.svg?style=flat)
 [React](https://reactjs.org/)
-![React Logo](/assets/images/react-logo.svg 'React Logo')
 
 
 ## Overview
