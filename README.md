@@ -2,7 +2,7 @@
 
 ### Technologies
 
-[![npm version](https://img.shields.io/npm/v/react.svg?style=flat)]
+![npm version](https://img.shields.io/npm/v/react.svg?style=flat)
 
 - npm packages 
 ```sh
