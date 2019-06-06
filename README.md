@@ -1,6 +1,6 @@
 # Clicky Game React App
 
-![GitHub Logo](/public/assets/images/react-logo.svg)
+![GitHub Logo](/src/images/react-logo.svg)
 
 
 Click [HERE!](https://rcubillo.github.io/reactclicky/) to play the game.
