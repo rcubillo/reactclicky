@@ -4,8 +4,8 @@
 
 ### Technologies
 
-![npm version](https://img.shields.io/npm/v/react.svg?style=flat)
-[React](https://reactjs.org/)
+- ![npm version](https://img.shields.io/npm/v/react.svg?style=flat)
+- [React](https://reactjs.org/)
 
 
 ## Overview
