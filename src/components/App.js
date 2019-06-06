@@ -101,13 +101,13 @@ class App extends Component {
     const state = this.state;
     return (
       <div>
-        <Navbar
+        <Navbar/>
+         <Jumbotron
           score={state.score}
           highScore={state.highScore}
           navMessage={state.navMessage}
           navMsgColor={state.navMsgCoxwlor}
-        />
-         <Jumbotron/>
+          />
         <Container
           characters={state.allCharacters}
           clickEvent={this.clickEvent}

@@ -1,9 +1,9 @@
 import React from 'react';
-
+import './styleNav.css';
 
 const Navbar = props => (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <a className="navbar-brand" href="#">
+    <nav className="navbar navbar-expand-lg navbar-light" >
+      <a className="navbar-brand" href="index.js">
         Clicky Game
       </a>
 
@@ -19,10 +19,7 @@ const Navbar = props => (
       </button>
 
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
-
-        <h3> Click an image to begin! </h3>
-         Score: {props.score} <span className="pipe">|</span> High Score: {props.highScore}
-        <p id="topScore">Top Score: 0</p>
+        <h3>  Click an image to begin! </h3>
       </div>
     </nav>
   );

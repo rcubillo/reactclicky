@@ -1,0 +1,14 @@
+.jumbotron {
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    color:#f4dc1c;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;;
+    font-size: 40px;
+    text-align: center;
+      background-color: #2ad2ef;
+}
+
+.pipe{
+  color:black;
+}
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
