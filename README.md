@@ -6,7 +6,7 @@
 
 - NPM
 - [React](https://reactjs.org/)
--Bootstrap
+- Bootstrap
 
 
 ## Overview
