@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.js": "/reactclicky/static/js/main.85a81b44.chunk.js",
-    "main.js.map": "/reactclicky/static/js/main.85a81b44.chunk.js.map",
+    "main.css": "/reactclicky/static/css/main.9e99a08e.chunk.css",
+    "main.js": "/reactclicky/static/js/main.4e2faeb5.chunk.js",
+    "main.js.map": "/reactclicky/static/js/main.4e2faeb5.chunk.js.map",
     "runtime~main.js": "/reactclicky/static/js/runtime~main.fd0a69df.js",
     "runtime~main.js.map": "/reactclicky/static/js/runtime~main.fd0a69df.js.map",
-    "static/js/2.3310f33a.chunk.js": "/reactclicky/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/reactclicky/static/js/2.3310f33a.chunk.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/reactclicky/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/reactclicky/static/js/2.76d8ed81.chunk.js.map",
     "index.html": "/reactclicky/index.html",
-    "precache-manifest.e26c52d5c034493f7d147ad63cd9b347.js": "/reactclicky/precache-manifest.e26c52d5c034493f7d147ad63cd9b347.js",
-    "service-worker.js": "/reactclicky/service-worker.js"
+    "precache-manifest.774631c8216fee742af7e4b092a071d9.js": "/reactclicky/precache-manifest.774631c8216fee742af7e4b092a071d9.js",
+    "service-worker.js": "/reactclicky/service-worker.js",
+    "static/css/main.9e99a08e.chunk.css.map": "/reactclicky/static/css/main.9e99a08e.chunk.css.map",
+    "static/media/bart.png": "/reactclicky/static/media/bart.fead4fe2.png",
+    "static/media/bart2.png": "/reactclicky/static/media/bart2.ce2f45a9.png",
+    "static/media/daly.png": "/reactclicky/static/media/daly.f6d40772.png",
+    "static/media/donut.png": "/reactclicky/static/media/donut.28f3261b.png",
+    "static/media/flanders.png": "/reactclicky/static/media/flanders.a1daf275.png",
+    "static/media/homero.png": "/reactclicky/static/media/homero.3cac2ab8.png",
+    "static/media/homero2.png": "/reactclicky/static/media/homero2.57623cf3.png",
+    "static/media/irish.png": "/reactclicky/static/media/irish.58824e6d.png",
+    "static/media/lisa.png": "/reactclicky/static/media/lisa.cca416ec.png",
+    "static/media/lisa2.png": "/reactclicky/static/media/lisa2.5767c0fd.png",
+    "static/media/maggie.png": "/reactclicky/static/media/maggie.b5c08ce0.png",
+    "static/media/march.png": "/reactclicky/static/media/march.efea4473.png"
   }
 }
