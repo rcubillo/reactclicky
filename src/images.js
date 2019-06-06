@@ -1,4 +1,4 @@
-//Here I have an array with all the images
+//Importing all the images.
 import bart from './images/bart.png';
 import bart2 from './images/bart2.png';
 import daly from './images/daly.png';
@@ -12,6 +12,7 @@ import lisa2 from './images/lisa2.png';
 import maggie from './images/maggie.png';
 import march from './images/march.png';
 
+//Here I have an array with all the images
 const images = [
   bart,
   bart2,

@@ -1,5 +1,5 @@
 import React from 'react';
-// import './Container.css';
+import './style.css';
 import Character from "../Character/Character";
 
 const Container = props => (
@@ -7,7 +7,7 @@ const Container = props => (
   <div
     className={
       props.shake
-        ? 'container d-flex flex-wrap justify-content-center shake'
+        ? 'container d-flex flex-wrap justify-content-center'
         : 'container d-flex flex-wrap justify-content-center'
     }
   >

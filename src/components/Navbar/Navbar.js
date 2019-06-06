@@ -1,7 +1,7 @@
 import React from 'react';
 
-function Navbar() {
-  return (
+
+const Navbar = props => (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <a className="navbar-brand" href="#">
         Clicky Game
@@ -21,11 +21,10 @@ function Navbar() {
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
 
         <h3> Click an image to begin! </h3>
-        <p id="score"> Score: 0</p>
+         Score: {props.score} <span className="pipe">|</span> High Score: {props.highScore}
         <p id="topScore">Top Score: 0</p>
       </div>
     </nav>
   );
-}
 
 export default Navbar;

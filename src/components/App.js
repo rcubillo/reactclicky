@@ -21,9 +21,6 @@ class App extends Component {
 
     // will track  each clicked element.
     wasClicked: [],
-
-    // shakes the container on an incorrect guess if set to true
-    shake: false
   };
 
   // binds the current this context to checkClicked to have access to the current state
@@ -82,7 +79,6 @@ class App extends Component {
         navMessage: 'Incorrect guess!',
         allCharacters: shuffled,
         wasClicked: [],
-        shake: true
       });
     }
 
@@ -94,7 +90,6 @@ class App extends Component {
       navMessage: 'You Guessed Correctly!',
       allCharacters: shuffled,
       wasClicked: prevState,
-      shake: false
     });
 
     // removes the green correct indicator on a successful click after .5s to re-render the class on each success
@@ -114,7 +109,6 @@ class App extends Component {
         />
          <Jumbotron/>
         <Container
-          shake={state.shake}
           characters={state.allCharacters}
           clickEvent={this.clickEvent}
         />
